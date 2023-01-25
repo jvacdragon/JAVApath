@@ -6,6 +6,9 @@ public class Dog extends Animal{
         this.name = name;
     }
 
+    public void testType(){
+        System.out.println(type);
+    }
     public String getName(){
         return name;
     }

@@ -1,5 +1,6 @@
 public class Animal {
-    private String type;
+    //PROTECTED SO THE SUBCLASSES CAN ACCESS TYPE
+    protected String type;
     private String size;
     private double weight;
 
