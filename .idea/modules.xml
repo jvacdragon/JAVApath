@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/ArrayChallenge/ArrayChallenge.iml" filepath="$PROJECT_DIR$/Arrays/ArrayChallenge/ArrayChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListsAndCollections/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ListsAndCollections/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListsAndCollections/ArrayListChallenge/ArrayListChallenge.iml" filepath="$PROJECT_DIR$/ListsAndCollections/ArrayListChallenge/ArrayListChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP2/Composition/Composition.iml" filepath="$PROJECT_DIR$/OOP2/Composition/Composition.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP2/CompositionChallenge/CompositionChallenge.iml" filepath="$PROJECT_DIR$/OOP2/CompositionChallenge/CompositionChallenge.iml" />
@@ -14,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/OOP1/InheritanceChallenge1/InheritanceChallenge1.iml" filepath="$PROJECT_DIR$/OOP1/InheritanceChallenge1/InheritanceChallenge1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaUdemy/Basics/KeyWordsAndExpressions/KeyWordsAndExpressions.iml" filepath="$PROJECT_DIR$/JavaUdemy/Basics/KeyWordsAndExpressions/KeyWordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListsAndCollections/ListsAndCollections.iml" filepath="$PROJECT_DIR$/ListsAndCollections/ListsAndCollections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/MinimumChallenge/MinimumChallenge.iml" filepath="$PROJECT_DIR$/Arrays/MinimumChallenge/MinimumChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP1/OOP1.iml" filepath="$PROJECT_DIR$/OOP1/OOP1.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP2/OOP2.iml" filepath="$PROJECT_DIR$/OOP2/OOP2.iml" />
